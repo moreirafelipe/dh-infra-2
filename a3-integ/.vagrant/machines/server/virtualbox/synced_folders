@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/CertTechDev/3bim/InfraII/a3-integ","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}

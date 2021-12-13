@@ -1,0 +1,6 @@
+docker search image pull ubuntu ou
+	pull 
+run
+start
+build
+docker compose up

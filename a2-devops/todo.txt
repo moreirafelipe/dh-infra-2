@@ -1,0 +1,10 @@
+Ansible
+Docker
+
+-- Instalar --
+
+Python
+Ansible
+Terraform
+
+Manda print dos serviços rodando pra prof.

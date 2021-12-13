@@ -1,0 +1,1 @@
+Manage Jenkins > Maven Integration plugin > Settar JDK e Maven

@@ -1,0 +1,26 @@
+Inicio
+Novo JOb
+Colocar nome
+Pegar nome do repo
+Construir proj software free-style
+Selecionar github project
+
+General
+Settar URL do projeto: com http -> sem o .git
+
+Gerenciamento de código fonte
+Colocar link http com .git
+
+Trigger de builds
+Consultar periodicamente o SCM
+Colocar * * * * *
+
+Adicionar passo no build
+
+Chamar alvos Maven de alto nivel
+
+Install Maven Integration plugin and docker plugins: 	
+Docker Pipeline, 	
+Docker Build Step,
+
+

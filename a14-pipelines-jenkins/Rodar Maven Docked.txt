@@ -1,0 +1,19 @@
+No projeto clinica de Backend
+
+Baixar docker-compose.yml e Dockerfile
+
+mvn install
+docker compose
+
+Jenkins
+
+Rodando - Java 11
+Porta:localhost/8090
+Admin password: 5fe2ab4b05de46fba9bcccf2d19fa78d
+Admin psw path: C:\ProgramData\Jenkins\.jenkins\secrets
+
+Username: felipemoreira
+Passw: JLipe@2021
+Full name: felipe Moreira
+Email: felipe.saint@gmail.com
+
